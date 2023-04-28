@@ -1,0 +1,5 @@
+pip install python-dotenv
+Flask
+requests
+beautifulsoup4
+telethon
